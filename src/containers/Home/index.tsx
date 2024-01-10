@@ -83,7 +83,7 @@ const Home = () => {
         />
       </Row>
 
-      <SpacerColumn size={20} />
+      <SpacerColumn size={10} />
       {
        !!Object.keys(stockFilter)?.length && (
 
